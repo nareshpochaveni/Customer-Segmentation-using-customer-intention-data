@@ -1,2 +1,2 @@
-# Customer segmentation based on customer intention data
+# Customer segmentation based on purchases data
 Data Science in university at Buffalo
